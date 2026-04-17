@@ -3,7 +3,7 @@
 **Autora:** María Fernanda Ramírez Serrano  
 **Curso:** Herramientas Básicas para el Análisis de Datos  
 **Institución:** Centro de e-Learning UTN BA  
-**Cohorte:** 2025  
+**Cohorte:** 2026  
 
 ---
 
