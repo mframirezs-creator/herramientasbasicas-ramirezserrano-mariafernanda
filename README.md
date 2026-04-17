@@ -9,7 +9,7 @@
 
 ## Descripción del proyecto
 
-Este proyecto analiza la evolución de la carga de enfermedades no transmisibles (ENT) en América Latina entre 1990 y 2021, utilizando como métrica principal los años de vida ajustados por discapacidad (DALYs). Se busca identificar qué enfermedades concentran la mayor pérdida de años de vida saludable, cómo evolucionó la carga cardiovascular en la región y qué países presentan los valores más elevados en 2021.
+Este proyecto analiza la evolución de la carga de enfermedades no transmisibles (ENT) en América Latina entre 1990 y 2021, utilizando como métrica principal los DALYs (Disability-Adjusted Life Years), conocidos en español como AVISA (Años de Vida Saludable Perdidos). Se busca identificar qué enfermedades concentran la mayor pérdida de años de vida saludable, cómo evolucionó la carga cardiovascular en la región y qué países presentan los valores más elevados en 2021.
 
 El análisis integra Python para la exploración y visualización de datos, Power BI para la construcción de un dashboard interactivo, y GitHub como plataforma de documentación y publicación del proyecto.
 
@@ -58,7 +58,7 @@ El análisis integra Python para la exploración y visualización de datos, Powe
 
 | KPI | Descripción |
 |-----|-------------|
-| KPI 1 | Top ENT por tasa de DALYs cada 100k hab. en Argentina (2021) |
+| KPI 1 | Top ENT por tasa de DALYs (AVISA) cada 100k hab. en Argentina (2021) |
 | KPI 2 | Variación % de DALYs cardiovasculares en LATAM (1990–2021) |
 | KPI 3 | Ranking de países por carga total de ENT (2021) |
 
